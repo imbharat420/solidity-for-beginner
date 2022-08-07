@@ -35,7 +35,7 @@
    3.7   [Event](#3.7)    
    3.8   [Fallback](#3.8)    
 
-4. [Practice     ](#4)
+4. [Practice Solidity](#4)
    4.1   [Fibonacci](#4.1)    
    4.2   [Wallet](#4.2)    
    4.3   [Escrow](#4.3)    
