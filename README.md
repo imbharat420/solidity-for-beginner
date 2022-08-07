@@ -40,7 +40,7 @@
    4.2   [Wallet](#4.2)    
    4.3   [Escrow](#4.3)    
    4.4   [Team Selection](#4.4)        
-   4.5 [Lotter](#4.5)
+   4.5   [Lottery](#4.5)
 
 
 
